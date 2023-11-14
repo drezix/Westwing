@@ -1,5 +1,3 @@
-USE westwingdb;
-
 SELECT cliente.id_cliente      AS ID_Cliente,
        cliente.nome            AS Nome,
        cliente.sobrenome       AS Sobrenome,
